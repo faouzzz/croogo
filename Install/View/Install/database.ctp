@@ -49,7 +49,6 @@ echo $this->Form->create(false, array(
 			'empty' => false,
 			'options' => array(
 				'Database/Mysql' => 'mysql',
-				'Database/Sqlite' => 'sqlite',
 				'Database/Postgres' => 'postgres',
 				'Database/Sqlserver' => 'mssql',
 			),
